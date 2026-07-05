@@ -91,8 +91,8 @@ See the database diagram (`Modello_DataBase.png`) for the full schema.
 ## Repository Contents
 
 - [`ElaboratoSIS_FedericaCirillo.pdf`](./ElaboratoSIS_FedericaCirillo.pdf) — full project report
-- `ASIS.S8` / `ASIS.bk8` — Simul8 AS-IS simulation model
-- `WHATIF.S8` / `WHATIF.bk8` — Simul8 WHAT-IF simulation model
+- `ASIS.zip` — Simul8 AS-IS simulation model
+- `WHATIF.zip` — Simul8 WHAT-IF simulation model
 - `Cisco_ClinicaMediterranea.pkt` — Cisco Packet Tracer network model
 - `Modello_DataBase.png` — entity-relationship diagram
 
