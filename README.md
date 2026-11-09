@@ -100,4 +100,4 @@ See the database diagram (`Modello_DataBase.png`) for the full schema.
 
 - **Simul8** — discrete-event simulation
 - **Cisco Packet Tracer** — network modeling
-- Relational database design (ER modeling)
+- **Caspio** — Relational database design (ER modeling)
